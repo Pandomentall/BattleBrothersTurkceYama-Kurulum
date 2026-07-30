@@ -18,16 +18,6 @@
   <img src="docs/ekran-goruntuleri/1-hosgeldiniz.png" width="640" alt="Kurulum sihirbazı — hoş geldiniz ekranı">
 </p>
 
-## Bu yama ne yapar
-
-Battle Brothers'ın olay metinlerini, görev sözleşmelerini, yeteneklerini,
-eşyalarını, arayüzünü, senaryolarını ve daha fazlasını Türkçeye çevirir.
-13 kategorinin tamamı bitti, tek satır İngilizce kalmadı. Oyunun Türkçe
-karakterleri (ç, ğ, ı, İ, ö, ş, ü) düzgün gösterebilmesi için yazı tipleri de
-ayrıca yamalandı.
-
-Kurulum sihirbazı üzerine yazdığı her dosyanın yedeğini alır; kaldırdığınızda
-oyun bıraktığınız hâline döner. Kayıtlı oyunlarınıza dokunulmaz.
 
 ## Kurulum
 

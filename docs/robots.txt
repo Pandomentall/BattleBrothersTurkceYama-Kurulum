@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pandomentall.github.io/BattleBrothersTurkceYama-Kurulum/sitemap.xml

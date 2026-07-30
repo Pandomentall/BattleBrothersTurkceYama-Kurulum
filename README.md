@@ -8,7 +8,7 @@
 [![Lisans](https://img.shields.io/badge/lisans-MIT-a12b1e?style=flat-square)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows-444?style=flat-square)]()
 
-[**⬇ Kurulum dosyasını indir**](../../releases/latest) · [Ekran görüntüleri](#ekran-görüntüleri) · [SSS](#sık-sorulan-sorular)
+[**⬇ Kurulum dosyasını indir**](../../releases/latest) · [🌐 Tanıtım sayfası](https://pandomentall.github.io/BattleBrothersTurkceYama-Kurulum/) · [Ekran görüntüleri](#ekran-görüntüleri) · [SSS](#sık-sorulan-sorular)
 
 </div>
 
@@ -17,7 +17,6 @@
 <p align="center">
   <img src="docs/ekran-goruntuleri/1-hosgeldiniz.png" width="640" alt="Kurulum sihirbazı — hoş geldiniz ekranı">
 </p>
-
 
 ## Kurulum
 

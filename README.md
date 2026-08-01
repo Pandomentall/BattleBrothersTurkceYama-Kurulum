@@ -2,9 +2,9 @@
 
 # Battle Brothers Türkçe Yama
 
-**12.697 satır, 543.384 kelime çevrildi — %90 Türkçe.**
+**12.697 satır, 543.384 kelime çevrildi — %99 Türkçe.**
 
-[![Sürüm](https://img.shields.io/badge/sürüm-1.0.3-c9a227?style=flat-square)](../../releases/latest)
+[![Sürüm](https://img.shields.io/badge/sürüm-1.0.4-c9a227?style=flat-square)](../../releases/latest)
 [![Lisans](https://img.shields.io/badge/lisans-MIT-a12b1e?style=flat-square)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows-444?style=flat-square)]()
 
@@ -52,9 +52,9 @@ Yama**'yı kaldırın. Yamanın değiştirdiği her dosya özgün hâline döner
 ## Sık sorulan sorular
 
 **Yama tamamen bitti mi?**
-Şu an %90 seviyesinde. Oyunun büyük çoğunluğu Türkçe; birkaç ekran/menüde
-İngilizce metin kalmış olabilir ve aktif olarak düzeltiliyor. Bir şey
-görürseniz [Issues](../../issues) üzerinden bildirin.
+Şu an %99 seviyesinde. Oyunun tamamına yakını Türkçe; çok nadiren bir
+ekran/menüde İngilizce metin kalmış olabilir. Bir şey görürseniz
+[Issues](../../issues) üzerinden bildirin.
 
 **Oyun güncellenince yama bozulur mu?**
 Bazı metinler İngilizceye dönebilir; böyle bir durumda yamayı yeniden kurmanız

@@ -4,7 +4,7 @@
 
 **12.697 satır, 543.384 kelime çevrildi — %99 Türkçe.**
 
-[![Sürüm](https://img.shields.io/badge/sürüm-1.0.4-c9a227?style=flat-square)](../../releases/latest)
+[![Sürüm](https://img.shields.io/badge/sürüm-1.0.5-c9a227?style=flat-square)](../../releases/latest)
 [![Lisans](https://img.shields.io/badge/lisans-MIT-a12b1e?style=flat-square)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows-444?style=flat-square)]()
 

@@ -2,11 +2,12 @@
 
 # Battle Brothers Türkçe Yama
 
-**12.697 satır, 543.384 kelime çevrildi — %99 Türkçe.**
+**12.697 satır, 543.384 kelime çevrildi — oyunun yaklaşık %80'i Türkçe.**
 
-[![Sürüm](https://img.shields.io/badge/sürüm-1.0.5-c9a227?style=flat-square)](../../releases/latest)
+[![Sürüm](https://img.shields.io/badge/sürüm-1.0.6-c9a227?style=flat-square)](../../releases/latest)
 [![Lisans](https://img.shields.io/badge/lisans-MIT-a12b1e?style=flat-square)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows-444?style=flat-square)]()
+[![Legends Mod](https://img.shields.io/badge/Legends%20Mod-uyumlu-2f6f4e?style=flat-square)]()
 
 [**⬇ Kurulum dosyasını indir**](../../releases/latest) · [🌐 Tanıtım sayfası](https://pandomentall.github.io/BattleBrothersTurkceYama-Kurulum/) · [Ekran görüntüleri](#ekran-görüntüleri) · [SSS](#sık-sorulan-sorular)
 
@@ -52,9 +53,18 @@ Yama**'yı kaldırın. Yamanın değiştirdiği her dosya özgün hâline döner
 ## Sık sorulan sorular
 
 **Yama tamamen bitti mi?**
-Şu an %99 seviyesinde. Oyunun tamamına yakını Türkçe; çok nadiren bir
-ekran/menüde İngilizce metin kalmış olabilir. Bir şey görürseniz
-[Issues](../../issues) üzerinden bildirin.
+Şu an yaklaşık %80 seviyesinde. Arayüz, menüler, yetenekler, eşyalar ve
+sözleşmeler Türkçe; ancak bir kısım olay (event) metni hâlâ İngilizce.
+Çeviri aktif olarak sürüyor. Eksik gördüğünüz yerleri
+[Issues](../../issues) üzerinden bildirebilirsiniz.
+
+**Legends Mod ile çalışır mı?**
+Evet. Yama, Legends Mod'un iç kod anahtarlarını bozmayacak şekilde
+hazırlandı — oyunun kendi kodunda anahtar olarak kullanılan kelimeler
+bilerek İngilizce bırakılır, oyuncuya görünen metinler çevrilir. Bu ayrım
+oyunun derlenmiş betikleri çözümlenerek otomatik denetleniyor.
+Legends Mod'un kendi arayüzündeki bazı metinler İngilizce kalır; onlar
+modun kendi dosyalarında olduğu için bu yamanın kapsamı dışındadır.
 
 **Oyun güncellenince yama bozulur mu?**
 Bazı metinler İngilizceye dönebilir; böyle bir durumda yamayı yeniden kurmanız
